@@ -1,4 +1,3 @@
 __pycache__/ 
 bert_cache/ 
-*.pkl 
 *.pyc 
