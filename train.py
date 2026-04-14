@@ -1,7 +1,7 @@
 import os
 import pickle
 import torch
-import torch.nn as nn  # 这里修复了！
+import torch.nn as nn  
 import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader
 from sklearn.metrics import accuracy_score
